@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test2(failed)">
+    <parameter name="bro" value="firefox"/>
+    <classes>
+      <class name="com.TestNG.BeforeAfterClass">
+        <methods>
+          <include name="mobile"/>
+          <include name="closetab"/>
+          <include name="close"/>
+          <include name="opentab"/>
+          <include name="nike"/>
+          <include name="openbrowse"/>
+        </methods>
+      </class> <!-- com.TestNG.BeforeAfterClass -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

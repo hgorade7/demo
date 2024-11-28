@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-19T14:45:15 IST" name="Default suite" finished-at="2024-11-19T14:45:22 IST" duration-ms="6380">
+    <groups>
+    </groups>
+    <test started-at="2024-11-19T14:45:15 IST" name="Default test" finished-at="2024-11-19T14:45:22 IST" duration-ms="6380">
+      <class name="com.TestNG.AssertionDemo">
+        <test-method signature="GoogleSearch()[pri:0, instance:com.TestNG.AssertionDemo@15bb5034]" started-at="2024-11-19T14:45:15 IST" name="GoogleSearch" finished-at="2024-11-19T14:45:22 IST" duration-ms="6327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+      </class> <!-- com.TestNG.AssertionDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
